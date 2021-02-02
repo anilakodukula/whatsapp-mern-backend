@@ -1,2 +1,0 @@
-# sample-mern
-sample MERN
